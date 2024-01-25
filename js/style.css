@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+main {
+    width: 80%;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h3 {
+    background: #005a9c;
+    color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+p {
+    background: #e7e7e7;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 4px;
+    border-left: 4px solid #005a9c;
+}
